@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>I am a Computer Science student focused on building practical AI & ML projects.  <br>I love turning ideas into working applications using Python and Flask.  <br><br>- 🔭 Working on AI-based projects (Spam Detection, Resume Screening, Fraud Detection)  <br>- 🌱 Learning Full Stack Development (Flask + React)  <br>- 👨‍💻 Comfortable with Python, ML, and basic Web Dev  <br>- 🎯 Actively looking for internships and entry-level opportunities  <br>
+I am a Computer Science student focused on building practical AI & ML projects.  <br>I love turning ideas into working applications using Python and Flask.  <br><br>- 🔭 Working on AI-based projects (Spam Detection, Resume Screening, Fraud Detection)  <br>- 🌱 Learning Full Stack Development (Flask + React)  <br>- 👨‍💻 Comfortable with Python, ML, and basic Web Dev  <br>- 🎯 Actively looking for internships and entry-level opportunities  <br>
 
 
 ## 🌐 Socials:
